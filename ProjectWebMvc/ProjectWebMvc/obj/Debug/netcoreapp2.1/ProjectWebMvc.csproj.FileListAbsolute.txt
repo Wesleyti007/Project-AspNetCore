@@ -7,7 +7,6 @@ C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\bin\Debu
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\bin\Debug\netcoreapp2.1\ProjectWebMvc.pdb
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\bin\Debug\netcoreapp2.1\ProjectWebMvc.Views.dll
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\bin\Debug\netcoreapp2.1\ProjectWebMvc.Views.pdb
-C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.csprojAssemblyReference.cache
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.AssemblyInfoInputs.cache
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.AssemblyInfo.cs
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.csproj.CoreCompileInputs.cache
@@ -33,3 +32,9 @@ C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debu
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.pdb
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.genruntimeconfig.cache
 C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.csproj.CopyComplete
+C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\ProjectWebMvc.csprojAssemblyReference.cache
+C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Wesley\Projetos\Project-AspNetCore\ProjectWebMvc\ProjectWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
