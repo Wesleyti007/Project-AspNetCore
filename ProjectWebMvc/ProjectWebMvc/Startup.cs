@@ -37,7 +37,8 @@ namespace ProjectWebMvc
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<ProjectWebMvcContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("ProjectWebMvcContext")));
+                    options.UseSqlServer(Configuration.GetConnectionString("ProjectWebMvcContext"), builder => 
+                        builder.MigrationsAssembly("ProjectWebMvc")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
