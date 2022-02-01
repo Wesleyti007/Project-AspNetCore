@@ -11,18 +11,23 @@ namespace ProjectWebMvc.Models
         public int Id { get; set; }
 
         [Display(Name = "Nome")]
+        [Required(ErrorMessage = "Nome obrigatorio")]
         public string Name { get; set; }
 
         [DataType(DataType.EmailAddress)]
+        [Required(ErrorMessage = "Email obrigatorio")]
+        [EmailAddress(ErrorMessage = "Entre com email valido")]
         public string Email { get; set; }
 
         [Display(Name = "Data Nascimento")]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
+        [Required(ErrorMessage = "Data de nascimento obrigatorio")]
         public DateTime BirthDate { get; set; }
 
         [Display(Name = "Salario Base")]
         [DisplayFormat(DataFormatString = "{0:F2}")]
+        [Required(ErrorMessage = "Salario obrigatorio")]
         public double BaseSalary { get; set; }
 
         public Department Department { get; set; }
